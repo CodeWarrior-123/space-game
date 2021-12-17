@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+
+.greetings{
+  font-size: 40px;
+  color: rgb(204, 224, 112);
+  font-family: vollkorn;
+  text-align: center;
+}
+
+canvas{
+  border: 2px solid black;
+}
